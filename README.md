@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheelprojects" alt="raheelprojects" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Nest**
 
 - 💬 Ask me about **react.js , flutter , dart, express.js and mongodb**
 
